@@ -1,0 +1,8 @@
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\obj\Debug\BlockChain.csprojResolveAssemblyReference.cache
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\bin\Debug\BlockChain.exe.config
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\bin\Debug\Newtonsoft.Json.xml
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\obj\Debug\BlockChain.exe
+D:\Development\Projects\VS 2017\BlockChain\BlockChain\obj\Debug\BlockChain.pdb
